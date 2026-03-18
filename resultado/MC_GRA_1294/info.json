@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://DanielaTGomes.github.io/imagens_omeka/resultado//MC_GRA_1294",
+  "height": 3583,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 224,
+      "width": 332
+    },
+    {
+      "height": 112,
+      "width": 166
+    },
+    {
+      "height": 56,
+      "width": 83
+    },
+    {
+      "height": 28,
+      "width": 41
+    },
+    {
+      "height": 14,
+      "width": 21
+    },
+    {
+      "height": 7,
+      "width": 10
+    },
+    {
+      "height": 3,
+      "width": 5
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 5308
+}
