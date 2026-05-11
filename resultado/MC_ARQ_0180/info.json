@@ -1,0 +1,72 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://DanielaTGomes.github.io/imagens_omeka/resultado//MC_ARQ_0180",
+  "height": 7323,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 458,
+      "width": 487
+    },
+    {
+      "height": 229,
+      "width": 244
+    },
+    {
+      "height": 114,
+      "width": 122
+    },
+    {
+      "height": 57,
+      "width": 61
+    },
+    {
+      "height": 29,
+      "width": 30
+    },
+    {
+      "height": 14,
+      "width": 15
+    },
+    {
+      "height": 7,
+      "width": 8
+    },
+    {
+      "height": 4,
+      "width": 4
+    },
+    {
+      "height": 2,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 7795
+}
