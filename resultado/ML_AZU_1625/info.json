@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://DanielaTGomes.github.io/imagens_omeka/resultado//ML_AZU_1625",
+  "height": 3442,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 215,
+      "width": 325
+    },
+    {
+      "height": 108,
+      "width": 163
+    },
+    {
+      "height": 54,
+      "width": 81
+    },
+    {
+      "height": 27,
+      "width": 41
+    },
+    {
+      "height": 13,
+      "width": 20
+    },
+    {
+      "height": 7,
+      "width": 10
+    },
+    {
+      "height": 3,
+      "width": 5
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 5206
+}
