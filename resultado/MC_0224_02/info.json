@@ -1,0 +1,69 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://DanielaTGomes.github.io/imagens_omeka/resultado//MC_0224_02",
+  "height": 275,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 275,
+      "width": 367
+    },
+    {
+      "height": 138,
+      "width": 184
+    },
+    {
+      "height": 69,
+      "width": 92
+    },
+    {
+      "height": 34,
+      "width": 46
+    },
+    {
+      "height": 17,
+      "width": 23
+    },
+    {
+      "height": 9,
+      "width": 11
+    },
+    {
+      "height": 4,
+      "width": 6
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1
+      ],
+      "width": 512
+    }
+  ],
+  "width": 367
+}
