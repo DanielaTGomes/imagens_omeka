@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://DanielaTGomes.github.io/imagens_omeka/resultado//CC_0111",
+  "height": 4000,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 500,
+      "width": 225
+    },
+    {
+      "height": 250,
+      "width": 113
+    },
+    {
+      "height": 125,
+      "width": 56
+    },
+    {
+      "height": 63,
+      "width": 28
+    },
+    {
+      "height": 31,
+      "width": 14
+    },
+    {
+      "height": 16,
+      "width": 7
+    },
+    {
+      "height": 8,
+      "width": 4
+    },
+    {
+      "height": 4,
+      "width": 2
+    },
+    {
+      "height": 2,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 512
+    }
+  ],
+  "width": 1800
+}
